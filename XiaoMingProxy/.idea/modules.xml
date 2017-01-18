@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XiaoMingDeclareAop/XiaoMingDeclareAop.iml" filepath="$PROJECT_DIR$/XiaoMingDeclareAop/XiaoMingDeclareAop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XiaoMingProxy.iml" filepath="$PROJECT_DIR$/XiaoMingProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XmProgramAop/XmProgramAop.iml" filepath="$PROJECT_DIR$/XmProgramAop/XmProgramAop.iml" />
+    </modules>
+  </component>
+</project>
